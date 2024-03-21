@@ -1,0 +1,16 @@
+{
+  "name": "jlptsensei_tools",
+  "version": "1.0.0",
+  "description": "set of scripts that allows to parse some info from jtptsensei.com website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "4in4in",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.12"
+  },
+  "type": "module"
+}
